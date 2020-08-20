@@ -19,4 +19,6 @@ Translation of existing [Oral History schema](https://github.com/FAIMS/oral-hist
 ```
 where the actual type is defined in the definitions section - this can be another file or a URL.  The problem is that you can't then add to this - in particular I was using the `description` field to hold a label and you can't add that in here if you use `$ref`.
 
-* 
+* My thinking was that each field type might render as a particular form component in the app but on reflection it might be the other way around - each component has an associated schema fragment and one output from an app definition could be a schema to describe the JSON data format that will be used to store and transmit the data. 
+
+

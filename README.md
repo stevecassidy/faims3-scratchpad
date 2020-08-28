@@ -3,6 +3,12 @@
 Project for experimentation with ideas for the new version of FAIMS.
 
 
+## Existing Modules we need to reproduce
+
+https://github.com/FAIMS/CSIRO-Geochemistry-Sampling
+https://github.com/FAIMS/oral-history-doumanis
+https://github.com/FAIMS/Lake-Mungo
+
 ## JSON Schema
 
 Can we use JSON Schema [JS] as a definition language for an app? 

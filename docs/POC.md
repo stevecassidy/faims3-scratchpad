@@ -47,3 +47,9 @@ The client should be packaged as a mobile application using Apache Cordova (sugg
 if something else seems prefereable then that's good).  
 
 
+### Extensions
+
+Possible extensions to the basic specification to be implemented if we have the time:
+
+ * Collect real GPS location
+ * Display records using locations in Leaflet

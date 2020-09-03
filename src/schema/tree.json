@@ -15,7 +15,7 @@
     "properties": {
       "tree_height": {
         "$id": "#/properties/tree_height",
-        "type": "integer",
+        "type": "number",
         "title": "Tree Height (m)",
         "default": 0,
         "examples": [

@@ -53,3 +53,4 @@ Possible extensions to the basic specification to be implemented if we have the 
 
  * Collect real GPS location
  * Display records using locations in Leaflet
+ * Take a photo using the device camera and upload to server with other data

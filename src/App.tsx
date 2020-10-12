@@ -5,8 +5,8 @@ import Typography from '@material-ui/core/Typography';
 import withStyles, { WithStyles } from '@material-ui/core/styles/withStyles';
 import createStyles from '@material-ui/core/styles/createStyles';
 import './App.css';
-import schema from './schema/demo.json';
-import uischema from './schema/demoui.json';
+import schema from './schema/tree.json';
+import uischema from './schema/treeui.json';
 import {
   materialCells,
   materialRenderers,

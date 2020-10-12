@@ -52,6 +52,7 @@ const App = ({ classes }: AppProps) => {
         spacing={1}
         className={classes.container}
       >
+        
         <Grid item sm={6}>
           <Typography variant={'h3'} className={classes.title}>
             Bound data
